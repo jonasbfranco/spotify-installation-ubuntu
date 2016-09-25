@@ -2,12 +2,7 @@
 spotify installation script for Linux Ubuntu
 Script de Instalação do Spotify para Linux Ubuntu
 
+##Install
 
-git clone 
+git clone https://github.com/jonasbfranco/spotify-installation-ubuntu.git && sudo ./spotify.sh
 
-Install
-sudo ./spotify.sh
-
-or
-
-git
