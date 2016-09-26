@@ -6,13 +6,11 @@ Install
 
 ### Installation
 
- Open Terminal
- 
- ctrl+lt+t
- 
- paste the code
-
-
+ Open Terminal  
+ ctrl+alt+t  
+ coy and paste the code  
+  
+  
     git clone https://github.com/jonasbfranco/spotify-installation-ubuntu && sudo chmod 777 spotify.sh && sudo ./spotify.sh
 
 
