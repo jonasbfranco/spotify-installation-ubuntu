@@ -1,17 +1,11 @@
-Spotify Installation for Linux Ubuntu
-Instalação do Spotify no Linux Ubuntu
-
+### Spotify Installation for Linux Ubuntu - Instalação do Spotify no Linux Ubuntu
 
 Spotify installation script for Linux
 Ubuntu Script de Instalação do Spotify para Linux Ubuntu  
 
-### Installation  
-### Instalação
+#### Installation - Instalação
 
- Open Terminal  
- Abir o Terminal
- 
- ctrl+alt+t  
+ Open Terminal - Abir o Terminal (ctrl+alt+t)
  
  copy and paste the code interminal and press enter  
  copie e cole o codigo abaixo no terminal e tecle enter
