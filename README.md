@@ -1,7 +1,8 @@
-# Spotify Installation for Linux Ubuntu  
-# Instalação do Spotify no Linux Ubuntu
+Spotify Installation for Linux Ubuntu
+Instalação do Spotify no Linux Ubuntu
 
-Spotify installation script for Linux  
+
+Spotify installation script for Linux
 Ubuntu Script de Instalação do Spotify para Linux Ubuntu  
 
 ### Installation  
