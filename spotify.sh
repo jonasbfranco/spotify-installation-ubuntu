@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /tmp
+
 # 1. Add the Spotify repository signing key to be able to verify downloaded packages
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys BBEBDCB318AD50EC6865090613B00F1FD2C19886
 
@@ -11,6 +11,11 @@ sudo apt-get update
 
 # 4. Install Spotify
 sudo apt-get install spotify-client
+
+#remove file spotify.sh
+cd ..
+sudo rm -Rf spotify-installation-ubuntu
+
 
 zenity --info
 
